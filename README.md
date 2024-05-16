@@ -8,7 +8,7 @@ This project processes images of masonry blocks to detect and highlight areas af
 - Loads images from specified folders
 - Uses the first image as a reference
 - Processes each image to calculate the relative damp area
-- Generates grayscale, difference, thresholded, and opened images
+- Generates grayscale, difference, thresholded and opened images
 - Creates heatmaps and overlay images to visualize damp areas
 - Saves the processed images and results for further analysis
 
